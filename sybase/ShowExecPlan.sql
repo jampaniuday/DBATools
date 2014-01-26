@@ -1,0 +1,5 @@
+SET SHOWPLAN ON
+go
+
+SET NOEXEC ON
+go
